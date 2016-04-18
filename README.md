@@ -1,0 +1,2 @@
+# WaffleBot
+Waffles, the bot.
